@@ -86,8 +86,6 @@ def get_user_input(message: str) -> str:
    - Separación de roles
    - Trazabilidad de acciones
 
-
-
 ---
 
 ##  CORRECCIÓN 3: COHERENCIA CON MODELO RELACIONAL

@@ -1,0 +1,22 @@
+Santi Orteega 
+---------------------------
+
+-Automation
+-device_automation
+-device_type
+-device
+
+Rafael Perazzolo
+------------------------
+
+- event
+- home
+- location
+- rol 
+
+Fernando Moyano
+-----------------------
+
+state
+user_home
+user

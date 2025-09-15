@@ -1,6 +1,6 @@
 # Ejecucion de los scripts
 ---
 
-Para la ejecucion de los scripts colocar copiar y pegar en:
+Para la ejecucion de los scripts  copiar y pegar los en:
 
-**https://www.db-fiddle.com/**
+[oneCompiler](https://onecompiler.com/mysql)
